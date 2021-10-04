@@ -18,7 +18,7 @@ use Symfony\Component\HttpKernel\Exception\UnauthorizedHttpException;
 
 class ShieldMiddleware
 {
-    protected Shield $shield;
+    protected $shield;
 
     public function __construct(Shield $shield)
     {
