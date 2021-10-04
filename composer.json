@@ -1,5 +1,5 @@
 {
-    "name": "fr6/laravel-shield",
+    "name": "vinkla/shield",
     "description": "A HTTP basic auth middleware for Laravel",
     "keywords": [
         "auth",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^7.3 || ^8.0",
+        "php": "^7.4 || ^8.0",
         "illuminate/support": "^8.0",
         "symfony/http-kernel": "^5.1"
     },
