@@ -15,9 +15,9 @@ namespace Vinkla\Shield;
 
 class Shield
 {
-    protected array $users;
+    protected $users;
 
-    protected string $currentUser;
+    protected $currentUser;
 
     public function __construct(array $users = [])
     {
