@@ -1,6 +1,6 @@
 {
     "name": "vinkla/shield",
-    "description": "A HTTP basic auth middleware for Laravel",
+    "description": "A HTTP basic auth middleware for Laravel ",
     "keywords": [
         "auth",
         "basic",
